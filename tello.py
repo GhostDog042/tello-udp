@@ -36,7 +36,7 @@ class Tello(object):
 
 if __name__ == "__main__":
     test = Tello()
-    test.send("command", verbose=true)
+    test.send("command", verbose=True)
     #test.send("time?")
     while True:
         inpt = input(">>>")

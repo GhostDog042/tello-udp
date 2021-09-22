@@ -2,6 +2,8 @@ Command | Description | Response
 
 command | Enter command mode | OK|False
 
+end | Exits the loop in tello.py, only appilcable there though | N/A
+
 takeoff | Auto takeoff | OK|False
 
 land | Auto landing | OK|False
